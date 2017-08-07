@@ -14,7 +14,7 @@ Now, in your ```package.json```, copy and paste the code below and then run npm 
 ```json
 //cool-cosmic-todo-app/package.json
 {
-  "name": "cosmicToDo",
+  "name": "react-crud-sample",
   "version": "1.0.0",
   "description": "A simple todo app thet uses the Cosmic JS API",
   "main": "index.js",
@@ -23,7 +23,7 @@ Now, in your ```package.json```, copy and paste the code below and then run npm 
     "build": "webpack -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Alexandra",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.1",
